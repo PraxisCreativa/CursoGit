@@ -1,4 +1,5 @@
-html{
+body{
     background-color: black;
     color: rgb(42, 52, 61);
+    font-weight: 300;
 }
